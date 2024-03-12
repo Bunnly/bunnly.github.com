@@ -21,9 +21,9 @@ body {
     font-size: 20px;
 }
 
-#topnav > #topnav_icon {
+#topnav > a > #topnav_icon {
     float: left;
-    margin: 25px auto 25px auto;
+    margin: 200px auto 200px auto;
     padding: 20px 20px;
     width: 20px;
     height: 20px;
