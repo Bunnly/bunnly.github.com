@@ -13,7 +13,7 @@ body {
     height: 64px;
 }
 
-#topnav > #topnav_button {
+#topnav > #topnav-button {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -24,7 +24,7 @@ body {
     offset-position: 0px -10px;
 }
 
-#topnav > a > #topnav_icon {
+#topnav > a > #topnav-icon {
     width: 46px;
     height: 46px;
     border-radius: 50%;
@@ -32,13 +32,13 @@ body {
     margin-top: -6px;
 }
 
-#topnav > #topnav_button:hover {
+#topnav > #topnav-button:hover {
     background-color: #10a4c9;
     color: #000000;
     border-radius: 8px;
 }
 
-#topnav > #topnav_button.active {
+#topnav > #topnav-button.active {
     background-color: #1bd1ff;
     color: #303030;
     border-radius: 8px;
