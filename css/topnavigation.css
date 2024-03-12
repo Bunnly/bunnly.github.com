@@ -4,7 +4,8 @@ body {
 
 #topnav {
     background-color: #303030;
-    border: 2px #1bd1ff;
+    border-style: solid;
+    border-color: #1bd1ff;
     border-radius: 10px;
     overflow: hidden;
 }
