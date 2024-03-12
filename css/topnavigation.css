@@ -12,7 +12,7 @@ body {
     overflow: hidden;
 }
 
-#topnav a {
+#topnav > a {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -21,13 +21,13 @@ body {
     font-size: 17px;
 }
 
-#topnav a:hover {
+#topnav > a:hover #topnav_button {
     background-color: #10a4c9;
     color: #000000;
     border-radius: 8px;
 }
 
-#topnav a.active a#topnav_button {
+#topnav > a.active {
     background-color: #1bd1ff;
     color: #303030;
     border-radius: 8px;
