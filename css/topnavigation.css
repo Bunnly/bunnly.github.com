@@ -17,11 +17,11 @@ body {
 }
 
 #topnav a:hover {
-    background-color: #55f9ff;
+    background-color: #45daff;
     color: #000000;
 }
 
 #topnav a.active {
-    background-color: #20d0d6;
+    background-color: #10a4c9;
     color: #303030;
 }
