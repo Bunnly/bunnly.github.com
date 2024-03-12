@@ -18,10 +18,10 @@ body {
 
 #topnav a:hover {
     background-color: #55f9ff;
-    color: black;
+    color: #000000;
 }
 
 #topnav a.active {
     background-color: #00cdd4;
-    color: rgb(160, 160, 160);
+    color: #303030;
 }
