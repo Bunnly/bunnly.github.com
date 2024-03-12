@@ -24,11 +24,11 @@ body {
 #topnav a:hover {
     background-color: #10a4c9;
     color: #000000;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #topnav a.active {
     background-color: #1bd1ff;
     color: #303030;
-    border-radius: 10px;
+    border-radius: 8px;
 }
