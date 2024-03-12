@@ -27,7 +27,7 @@ body {
     width: 20px;
     height: 20px;
     display: block;
-    block-size: 25px 25px;
+    block-size: 50px 50px;
 }
 
 #topnav > #topnav_button:hover {
