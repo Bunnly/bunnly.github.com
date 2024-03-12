@@ -23,11 +23,11 @@ body {
 }
 
 #topnav > a > #topnav_icon {
-    float: left;
     padding: 20px 20px;
     width: 50px;
     height: 50px;
-    display: block;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 #topnav > #topnav_button:hover {
