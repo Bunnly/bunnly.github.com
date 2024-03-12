@@ -12,7 +12,7 @@ body {
     overflow: hidden;
 }
 
-#topnav #topnav_button a {
+#topnav a #topnav_button {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -21,7 +21,7 @@ body {
     font-size: 17px;
 }
 
-#topnav #topnav_img a {
+#topnav a #topnav_img {
     float: left;
     padding: 20px 20px;
 }
