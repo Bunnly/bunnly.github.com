@@ -27,7 +27,7 @@ body {
     border-radius: 8px;
 }
 
-#topnav a.active #topnav_button {
+#topnav a.active a#topnav_button {
     background-color: #1bd1ff;
     color: #303030;
     border-radius: 8px;
