@@ -21,13 +21,13 @@ body {
     font-size: 17px;
 }
 
-#topnav > a:hover #topnav_button {
+#topnav > #topnav_button:hover {
     background-color: #10a4c9;
     color: #000000;
     border-radius: 8px;
 }
 
-#topnav > a.active {
+#topnav > #topnav_button.active {
     background-color: #1bd1ff;
     color: #303030;
     border-radius: 8px;
