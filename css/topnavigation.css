@@ -6,7 +6,7 @@ body {
     background-color: #303030;
     border-radius: 10px;
     outline-width: 3px;
-    outline-color: #10a4c9;
+    outline-color: #1bd1ff;
     overflow: hidden;
 }
 
@@ -20,11 +20,11 @@ body {
 }
 
 #topnav a:hover {
-    background-color: #45daff;
+    background-color: #10a4c9;
     color: #000000;
 }
 
 #topnav a.active {
-    background-color: #10a4c9;
+    background-color: #1bd1ff;
     color: #303030;
 }
