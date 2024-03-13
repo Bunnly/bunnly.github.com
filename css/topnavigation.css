@@ -16,7 +16,7 @@ body {
 .topnav-button {
     float: left;
     text-align: center;
-    line-height: -1px;
+    line-height: -2px;
     padding: 20px 20px;
     height: 15px;
     text-decoration: none;
