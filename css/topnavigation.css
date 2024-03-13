@@ -36,7 +36,7 @@ body {
 .topnav-button:hover {
     background-color: #10a4c9;
     color: #000000;
-    border-radius: 8px;
+    border-radius: 15px;
 }
 
 .topnav-button.active {
