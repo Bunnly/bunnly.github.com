@@ -43,3 +43,9 @@ body {
     background-color: #1bd1ff;
     color: #303030;
 }
+
+@media only screen and (max-width: 500px) {
+    .topnav-button {
+      font-size: 0.5rem;
+    }
+  }
