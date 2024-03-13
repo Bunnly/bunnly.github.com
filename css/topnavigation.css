@@ -13,7 +13,7 @@ body {
     height: 64px;
 }
 
-#topnav > #topnav-button {
+.topnav-button {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -25,7 +25,7 @@ body {
     margin-top: 20px;
 }
 
-#topnav > a > #topnav-icon {
+.topnav-icon {
     float: left;
     width: 46px;
     height: 46px;
@@ -33,13 +33,13 @@ body {
     margin-top: 10px;
 }
 
-#topnav > #topnav-button:hover {
+.topnav-button:hover {
     background-color: #10a4c9;
     color: #000000;
     border-radius: 8px;
 }
 
-#topnav > #topnav-button.active {
+.topnav-button.active {
     background-color: #1bd1ff;
     color: #303030;
     border-radius: 8px;
