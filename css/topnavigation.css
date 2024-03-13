@@ -32,6 +32,8 @@ body {
     height: 46px;
     overflow: hidden;
     margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .topnav-button:hover {
