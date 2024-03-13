@@ -28,9 +28,8 @@ body {
     float: left;
     width: 46px;
     height: 46px;
-    border-radius: 50px;
     overflow: hidden;
-    margin-top: 11.5px;
+    margin-top: 50%;
 }
 
 #topnav > #topnav-button:hover {
