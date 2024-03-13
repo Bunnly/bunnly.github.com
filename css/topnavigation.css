@@ -13,7 +13,7 @@ body {
     height: 64px;
 }
 
-.topnav-button:not(.active) {
+.topnav-button:not(.active):not(:hover) {
     float: left;
     color: #f2f2f2;
     text-align: center;
