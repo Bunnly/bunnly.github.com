@@ -37,17 +37,8 @@ body {
 }
 
 .topnav-button:hover:not(.active) {
-    float: left;
     background-color: #10a4c9;
     color: #000000;
-    text-align: center;
-    line-height: 0px;
-    padding: 20px 20px;
-    height: 15px;
-    text-decoration: none;
-    font-size: 20px;
-    margin-top: 20px;
-    border-radius: 15px;
 }
 
 .topnav-button:active {
