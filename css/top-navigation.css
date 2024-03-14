@@ -1,7 +1,14 @@
-.topnav > ul > a {
+nav > ul > a {
     
 }
 
-.topnav > ul {
+nav > ul {
     list-style-type: none;
+}
+
+nav {
+    color: rgb(32, 32, 32);
+    height: 64px;
+    width: 100%;
+    margin: 10px;
 }
