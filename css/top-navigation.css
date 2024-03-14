@@ -1,7 +1,7 @@
 .topnav > ul > a {
-    color:darkgreen;
+    
 }
 
 .topnav > ul {
-    text-decoration: none;
+    list-style-type: none;
 }
