@@ -3,7 +3,7 @@ body {
     background-color: #222222;
 }
 
-#topnav {
+.topnav {
     background-color: #303030;
     border-style: solid;
     border-color: #10a4c9;
