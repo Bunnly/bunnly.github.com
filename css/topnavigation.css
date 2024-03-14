@@ -3,16 +3,6 @@ body {
     background-color: #222222;
 }
 
-#topnav {
-    background-color: #303030;
-    border-style: solid;
-    border-color: #10a4c9;
-    border-width: 2px;
-    border-radius: 10px;
-    overflow: hidden;
-    height: 1vm;
-}
-
 .topnav-button {
     float: left;
     text-align: center;
@@ -44,8 +34,12 @@ body {
     color: #303030;
 }
 
-@media only screen and (max-width: 500px) {
-    .topnav-button {
-      font-size: 0.5rem;
-    }
-  }
+#topnav {
+    background-color: #303030;
+    border-style: solid;
+    border-color: #10a4c9;
+    border-width: 2px;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 1vm;
+}
