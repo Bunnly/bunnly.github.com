@@ -10,5 +10,6 @@ nav {
     background-color: #323232;
     height: 64px;
     width: 100%;
-    margin: 10px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
