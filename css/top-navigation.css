@@ -9,7 +9,7 @@ nav > ul {
 nav {
     background-color: #323232;
     height: 64px;
-    width: 100%;
+    width: clac(100% - 20px);
     margin-left: 10px;
     margin-right: 10px;
 }
