@@ -12,6 +12,8 @@ nav > ul > li > a {
     font-size: 20px;
     padding: 5px 5px;
     border-radius: 5px;
+    background-color: #32a1dc;
+    color: #eeeeee;
 }
 
 /*Remove list dots*/
