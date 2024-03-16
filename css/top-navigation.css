@@ -1,8 +1,8 @@
 /*Listed links*/
 nav > ul > li {
     display: inline-block;
-  line-height: 64px;
-  margin: 0 5px;
+    line-height: 64px;
+    margin: 0 5px;
 }
 
 /*links*/
@@ -21,6 +21,7 @@ nav > ul {
 
 /*Icon*/
 nav > a > img {
+    float: left;
     margin: 10px;
     height: calc(100% - 20px);
     width:auto;
