@@ -1,15 +1,15 @@
 /*Listed links*/
 nav > ul > li {
     display: inline-block;
+  line-height: 64px;
+  margin: 0 5px;
 }
 
 /*links*/
-nav > ul > li {
+nav > ul > li > a {
     font-family: Roboto;
     font-weight: bold;
     font-size: 20px;
-    line-height: 64px;
-    margin: 0 5px;
 }
 
 /*Remove list dots*/
