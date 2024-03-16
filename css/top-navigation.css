@@ -1,11 +1,19 @@
+/*Links*/
 nav > ul > a {
     
 }
 
+/*Remove list dots*/
 nav > ul {
     list-style-type: none;
 }
 
+/*Icon*/
+nav > a {
+    
+}
+
+/*Navigation bar*/
 nav {
     background-color: #323232;
     height: 64px;
