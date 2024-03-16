@@ -23,7 +23,7 @@ nav > ul {
 }
 
 /*Icon*/
-nav > a > img {
+nav > a {
     float: left;
     margin: 10px;
     height: calc(100% - 20px);
