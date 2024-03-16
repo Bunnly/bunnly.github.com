@@ -1,6 +1,7 @@
 /*Links*/
 nav > ul > a {
-    
+    font-family: Roboto;
+    font-size: 20px;
 }
 
 /*Remove list dots*/
