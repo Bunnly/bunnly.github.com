@@ -1,7 +1,14 @@
-/*Links*/
-nav > ul > a {
+/*Listed links*/
+nav > ul > li {
+    display: inline-block;
+}
+
+/*links*/
+nav > ul > li {
     font-family: Roboto;
+    font-weight: bold;
     font-size: 20px;
+    margin: 0 5px;
 }
 
 /*Remove list dots*/
