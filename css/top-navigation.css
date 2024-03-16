@@ -11,6 +11,8 @@ nav > ul {
 /*Icon*/
 nav > a {
     margin: 3px;
+    height: calc(fit-content - 6px);
+    width:auto;
 }
 
 /*Navigation bar*/
