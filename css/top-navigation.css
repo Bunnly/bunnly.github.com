@@ -9,7 +9,7 @@ nav > ul {
 }
 
 /*Icon*/
-nav > a {
+nav > a > img {
     margin: 3px;
     height: calc(100% - 6px);
     width:auto;
