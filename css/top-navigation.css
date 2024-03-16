@@ -8,6 +8,7 @@ nav > ul > li {
     font-family: Roboto;
     font-weight: bold;
     font-size: 20px;
+    line-height: 80px;
     margin: 0 5px;
 }
 
