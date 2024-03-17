@@ -1,7 +1,7 @@
 /*Listed links*/
 nav > ul > li {
     display: inline-block;
-    line-height: 64px;
+    line-height: 32px;
     margin: 0 5px;
 }
 
