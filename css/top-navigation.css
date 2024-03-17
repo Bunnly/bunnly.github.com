@@ -19,7 +19,7 @@ nav > ul > li > a {
 /*Remove list dots*/
 nav > ul {
     float: right;
-    margin-right: 10px;
+    margin-right: 15px;
     list-style-type: none;
 }
 
