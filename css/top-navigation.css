@@ -10,7 +10,7 @@ nav > ul > li > a {
     font-family: Roboto;
     font-weight: bold;
     font-size: 20px;
-    padding: 5px 5px;
+    padding: 0 5px;
     border-radius: 5px;
     text-decoration: none;
     background-color: #32a1dc;
