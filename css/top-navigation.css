@@ -12,6 +12,7 @@ nav > ul > li > a {
     font-size: 20px;
     padding: 5px 5px;
     padding-bottom: 10px;
+    margin-top: 10px;
     border-radius: 5px;
     text-decoration: none;
     color: #52c3ff;
@@ -28,7 +29,6 @@ nav > ul > li > a.active, nav > ul > li > a:hover {
 nav > ul {
     float: right;
     margin-right: 15px;
-    margin-top: 10px;
     list-style-type: none;
 }
 
