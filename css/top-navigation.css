@@ -16,6 +16,12 @@ nav > ul > li > a {
     color: #52c3ff;
 }
 
+/*links hover and active*/
+nav > ul > li > a {
+    background-color: #52c3ff;
+    color: #222222;
+}
+
 /*Remove list dots*/
 nav > ul {
     float: right;
