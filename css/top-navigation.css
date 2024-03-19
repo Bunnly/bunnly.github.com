@@ -17,7 +17,7 @@ nav > ul > li > a {
 }
 
 /*links hover and active*/
-nav > ul > li > a {
+nav > ul > li > a.active, nav > ul > li > a:hover {
     background-color: #52c3ff;
     color: #222222;
 }
