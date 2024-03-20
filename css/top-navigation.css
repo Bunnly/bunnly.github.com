@@ -53,7 +53,7 @@ nav {
 
 /*tri-bar*/
 .icon-tribar {
-    fill: #52c3ff;
+    stroke: #52c3ff;
     width: 24px;
     height: 24px;
 }
