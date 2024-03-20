@@ -51,9 +51,8 @@ nav {
     overflow: hidden;
 }
 
-.nav-bars {
+.nav-bars > svg {
     width: 24px;
     height: 24px;
-} .nav-bars > svg {
     stroke: #52c3ff;
 }
