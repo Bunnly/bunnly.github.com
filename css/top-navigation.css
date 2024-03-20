@@ -70,6 +70,9 @@ nav {
     .nav-tribar-button {
         display: block;
     }
+    nav {
+        overflow: visible;
+    }
     nav > ul {
         float: none;
         margin-right: 0;
