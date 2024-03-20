@@ -66,8 +66,20 @@ nav {
     display: none;
 }
 
-@media (max-width: 858px){
+@media (max-width: 540px){
     .nav-tribar-button {
         display: block;
+    }
+    nav > ul {
+        float: none;
+        margin-right: 0;
+        position: fixed;
+        width: 10%;
+        height: 50px;
+        background: #222222;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
     }
 }
