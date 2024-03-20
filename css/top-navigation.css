@@ -51,9 +51,9 @@ nav {
     overflow: hidden;
 }
 
-/*tri-bar*/
-.icon-tribar {
-    stroke: #52c3ff;
+.nav-bars {
     width: 24px;
     height: 24px;
+} .nav-bars > svg {
+    stroke: #52c3ff;
 }
