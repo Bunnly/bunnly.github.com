@@ -53,8 +53,7 @@ nav {
 
 /*tri-bar*/
 .icon-tribar {
+    --stroke-color: #52c3ff;
     width: 24px;
     height: 24px;
-} .icon-tribar line {
-    stroke: #52c3ff;
 }
