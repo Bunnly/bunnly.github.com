@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'icons';
+    src: url('path/to/custom-icons.woff2') format('woff2'), /* Modern Browsers */
+         url('path/to/custom-icons.woff') format('woff'),   /* Firefox, Chrome, Opera */
+         url('path/to/custom-icons.ttf') format('truetype'); /* IE, Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
