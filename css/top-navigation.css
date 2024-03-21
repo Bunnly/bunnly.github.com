@@ -65,7 +65,7 @@ nav {
         font-size: 32px;
         color: #52c3ff;
         float: right;
-        line-height: 64px;
+        line-height: calc(50% - 24px);
         margin-right: 20px;
         cursor: pointer;    
         display: block;
