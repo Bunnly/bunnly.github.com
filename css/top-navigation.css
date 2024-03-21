@@ -85,4 +85,12 @@ nav {
         text-align: center;
         transition: all .5s;
     }
+    nav > ul > li > a {
+        padding: 10px 10px;
+        padding-bottom: 0px;
+        margin-top: 0px;
+        border-radius: 20px;
+        text-decoration: none;
+        color: #52c3ff;
+    }
 }
