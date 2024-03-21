@@ -53,6 +53,12 @@ nav {
 
 /*Tribar*/
 .nav-tribar-button {
+    font-size: 32px;
+    color: #52c3ff;
+    float: right;
+    line-height: 72px;
+    margin-right: 20px;
+    cursor: pointer;
     display: none;
 }
 
@@ -62,12 +68,6 @@ nav {
 
 @media (max-width: 540px){
     .nav-tribar-button {
-        font-size: 32px;
-        color: #52c3ff;
-        float: right;
-        line-height: 72px;
-        margin-right: 20px;
-        cursor: pointer;    
         display: block;
     }
     nav {
