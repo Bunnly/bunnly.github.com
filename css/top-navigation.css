@@ -81,7 +81,7 @@ nav {
         height: 50px;
         background: #222222;
         top: 64px;
-        left: -100%;
+        left: 20px;
         text-align: center;
         transition: all .5s;
     }
