@@ -83,7 +83,7 @@ nav {
         top: 64px;
         left: 20px;
         text-align: center;
-        margin: 10px, 0;
+        margin-bottom: 10px;
         transition: all .5s;
     }
     nav > ul > li > a {
