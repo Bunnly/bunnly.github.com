@@ -84,7 +84,8 @@ nav {
         right: 10px;
         text-align: center;
         transition: all .5s;
-        padding: 10px, 10px;
+        display: flex;
+        align-items: center;
     }
     nav > ul> li {
         margin-bottom: 10px;
