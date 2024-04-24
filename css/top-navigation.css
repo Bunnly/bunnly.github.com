@@ -77,12 +77,14 @@ nav {
         float: none;
         margin-right: 0;
         position: fixed;
+        width: 20%;
+        height: 200px;
         background: #222222;
         top: 70px;
         right: 10px;
         text-align: center;
         display: flex;
-        flex-direction:column;
+        flex-direction: column;
         align-content: center;
         justify-content: center;
         padding: 10px, 10px;
