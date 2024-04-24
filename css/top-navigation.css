@@ -77,11 +77,11 @@ nav {
         float: none;
         margin-right: 0;
         position: fixed;
-        width: 10%;
-        height: 50px;
+        width: 20%;
+        height: 200px;
         background: #222222;
-        top: 200px;
-        left: 64px;
+        top: 70px;
+        right: 64px;
         text-align: center;
         transition: all .5s;
     }
