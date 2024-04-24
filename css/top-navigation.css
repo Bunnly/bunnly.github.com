@@ -80,8 +80,8 @@ nav {
         width: 10%;
         height: 50px;
         background: #222222;
-        top: 64px;
-        left: 20px;
+        top: 200px;
+        left: 64px;
         text-align: center;
         transition: all .5s;
     }
