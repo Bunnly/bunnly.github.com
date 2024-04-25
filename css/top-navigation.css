@@ -87,6 +87,7 @@ nav {
         flex-direction: column;
         align-content: center;
         justify-content: center;
+        padding: 10px;
         transition: all .5s;
     }
     nav > ul> li {
