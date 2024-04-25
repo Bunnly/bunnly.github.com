@@ -77,8 +77,8 @@ nav {
         float: none;
         margin-right: 0;
         position: fixed;
-        width: 20%;
-        height: 200px;
+        /* width: 20%;
+        height: 200px; */
         background: #222222;
         top: 70px;
         right: 10px;
