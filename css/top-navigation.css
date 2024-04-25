@@ -90,7 +90,7 @@ nav {
         transition: all .5s;
     }
     nav > ul> li {
-        margin: 10px, 10px;
+        margin: 20px, 20px;
     }
     nav > ul > li > a {
         padding: 5px 5px;
