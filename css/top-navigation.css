@@ -73,6 +73,9 @@ nav {
     nav {
         overflow: visible;
     }
+    nav > ul ~ #check:checked {
+        left: 0;
+    }
     nav > ul {
         float: none;
         margin-right: 0;
