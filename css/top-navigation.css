@@ -73,7 +73,7 @@ nav {
     nav {
         overflow: visible;
     }
-    nav > ul ~ #check:checked {
+    #check:checked ~ nav > ul {
         left: 0;
     }
     nav > ul {
