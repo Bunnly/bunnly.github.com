@@ -70,16 +70,11 @@ nav {
     .nav-tribar-button {
         display: block;
     }
-    #check {
-        left:  10px;
-        top: 100px;
-        size: 20px;
-    }
     nav {
         overflow: visible;
     }
     #check:checked ~ nav > ul {
-        height: 0;
+        background: #ff0000;
     }
     nav > ul {
         float: none;
