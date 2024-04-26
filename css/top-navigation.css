@@ -74,7 +74,7 @@ nav {
         overflow: visible;
     }
     #check:checked ~ nav > ul {
-        left: 0;
+        height: 0;
     }
     nav > ul {
         float: none;
