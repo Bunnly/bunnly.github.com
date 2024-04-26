@@ -52,7 +52,7 @@ nav {
 }
 
 /*Tribar*/
-/* .nav-tribar-button {
+.nav-tribar-button {
     font-size: 32px;
     color: #52c3ff;
     float: right;
@@ -60,16 +60,20 @@ nav {
     margin-right: 20px;
     cursor: pointer;
     display: none;
-} */
+}
 
 #check {
     display: none;
 }
 
 @media (max-width: 540px){
-    /* .nav-tribar-button {
+    .nav-tribar-button {
         display: block;
-    } */
+    }
+    #check {
+        left:  10px;
+        top: 100px;
+    }
     nav {
         overflow: visible;
     }
