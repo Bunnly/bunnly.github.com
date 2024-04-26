@@ -73,7 +73,7 @@ nav {
     nav {
         overflow: visible;
     }
-    #check:checked ~ nav > ul {
+    #check:checked + nav > ul {
         background: #ff0000;
     }
     nav > ul {
