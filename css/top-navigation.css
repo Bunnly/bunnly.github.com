@@ -73,6 +73,7 @@ nav {
     #check {
         left:  10px;
         top: 100px;
+        size: 20px;
     }
     nav {
         overflow: visible;
