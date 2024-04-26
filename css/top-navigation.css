@@ -73,9 +73,6 @@ nav {
     nav {
         overflow: visible;
     }
-    #check:checked + nav > ul {
-        background: #ff0000;
-    }
     nav > ul {
         float: none;
         margin-right: 0;
@@ -103,5 +100,8 @@ nav {
         border-radius: 10px;
         text-decoration: none;
         color: #52c3ff;
+    }
+    #check:checked + nav > ul {
+        background: #ff0000;
     }
 }
