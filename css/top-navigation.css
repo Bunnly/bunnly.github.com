@@ -103,7 +103,7 @@ nav {
     }
     #check:checked + ul {
         transition: all .5s;
-        height: 0;
+        max-height: 0;
         visibility: hidden;
     }
 }
