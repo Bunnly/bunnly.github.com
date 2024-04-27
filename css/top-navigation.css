@@ -89,7 +89,6 @@ nav {
         border-radius: 20px;
         border: 3px solid #52c3ff;
         overflow: hidden;
-        transition: all .5s;
     }
     nav > ul> li {
         margin-bottom: 5px;
@@ -103,6 +102,7 @@ nav {
         color: #52c3ff;
     }
     #check:checked + ul {
+        transition: all .5s;
         height: 0;
     }
 }
