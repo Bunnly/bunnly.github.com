@@ -102,6 +102,6 @@ nav {
         color: #52c3ff;
     }
     #check:checked + ul {
-        left: 0;
+        right: -10px;
     }
 }
