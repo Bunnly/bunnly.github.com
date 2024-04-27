@@ -107,6 +107,5 @@ nav {
     #check:checked + ul {
         max-height: none;
         visibility: visible;
-        transition: max-height .5s ease-in-out
     }
 }
