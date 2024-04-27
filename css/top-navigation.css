@@ -101,7 +101,7 @@ nav {
         text-decoration: none;
         color: #52c3ff;
     }
-    #check:checked + nav > ul {
+    #check:checked + ul {
         background: #ff0000;
     }
 }
