@@ -89,9 +89,9 @@ nav {
         border-radius: 20px;
         border: 3px solid #52c3ff;
         overflow: hidden;
-        height: 0;
+        max-height: 0;
         visibility: hidden;
-        transition: all .5s;
+        transition: all .5s ease;
     }
     nav > ul> li {
         margin-bottom: 5px;
@@ -105,7 +105,7 @@ nav {
         color: #52c3ff;
     }
     #check:checked + ul {
-        height: none;
+        max-height: none;
         visibility: visible;
     }
 }
