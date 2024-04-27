@@ -103,6 +103,6 @@ nav {
         color: #52c3ff;
     }
     #check:checked + ul {
-        top: -200;
+        height: 0;
     }
 }
