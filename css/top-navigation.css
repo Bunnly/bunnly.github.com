@@ -91,7 +91,7 @@ nav {
         overflow: hidden;
         max-height: 0;
         visibility: hidden;
-        transition: max-height .5s ease-in-out
+        transition: all .5s ease-in-out
     }
     nav > ul> li {
         margin-bottom: 5px;
