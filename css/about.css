@@ -21,6 +21,7 @@ p > a:hover {
 
 /*Image o'Bunnly*/
 p > img {
-    width: 25vw;
+    margin-top: 10px;
+    width: 22vw;
     height: auto;
 }
