@@ -30,8 +30,7 @@
     <script>
       function ClickToCopy() {
         var copyText = document.getElementById("email");
-        copyText.select();
-        copyText.setSelectionRange(0, 99999);
+        copyText.focus();
         navigator.clipboard.writeText(copyText.value);
         
         var tooltip = document.getElementById("copy-button");
