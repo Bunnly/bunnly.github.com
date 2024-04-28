@@ -108,4 +108,7 @@ nav {
         max-height: 1000px;
         visibility: visible;
     }
+    #check:checked + ul > li > a {
+        transition: none;
+    }
 }
