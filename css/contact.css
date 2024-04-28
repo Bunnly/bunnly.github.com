@@ -19,6 +19,7 @@ div > p {
 div > button {
     content: "Copy to clipboard";
     font-family: Roboto;
+    font-size: 20vw;
     width: fit-content;
     color: #52c3ff;
     background-color: #333333;
