@@ -27,15 +27,22 @@
       <span class="tooltip-text" id="copy">Copy to clipboard</span>
       Copy
     </button>
+
+    <!--copy to clipboard javascript-->
     <script>
       function ClickToCopy() {
-        var copyText = document.getElementById("email");
+        var emailElement = document.getElementById("email");
+
+        //select
         var range = document.createRange();
-        range.selectNodeContents(copyText);
+        range.selectNodeContents(emailElement);
+      
         var selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range)
-        navigator.clipboard.writeText(copyText.textContent ? copyText.textContent : copyText.innerText);
+
+        //Copy to clipboard
+        navigator.clipboard.writeText(emailElement.textContent ? emailElement.textContent : emailElement.innerText);
         
         var tooltip = document.getElementById("copy");
         tooltip.innerHTML = "Copied!";
