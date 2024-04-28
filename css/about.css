@@ -5,6 +5,7 @@ body {
 /*About paragraph*/
 p {
     color: white;
+    font-family: Roboto;
     font-size: xx-large;
     text-align: center;
 }
