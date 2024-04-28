@@ -21,7 +21,7 @@ nav > ul > li > a {
 /*links hover and active*/
 nav > ul > li > a.active, nav > ul > li > a:hover {
     background-color: #52c3ff;
-    color: #3f3f3f;
+    color: #333333;
     transition: 0.25s;
 }
 
@@ -42,7 +42,7 @@ nav > a > img {
 
 /*Navigation bar*/
 nav {
-    background-color: #3f3f3f;
+    background-color: #333333;
     height: 64px;
     width: calc(100% - 20px);
     margin: 10px auto;
@@ -77,7 +77,7 @@ nav {
         float: none;
         margin-right: 0;
         position: fixed;
-        background: #3f3f3f;
+        background: #333333;
         top: 70px;
         right: 10px;
         text-align: center;
