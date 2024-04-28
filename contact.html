@@ -22,9 +22,27 @@
     <label for="check" class="nav-tribar-button"><i class="icon-tribar"></i></label>
   </nav>
   <div>
-    <p>
-      bunnlygamesbusiness@gmail.com
-    </p>
+    <p id="email">bunnlygamesbusiness@gmail.com</p>
+    <button onclick="ClickToCopy()" onmouseout="Unhovered()">
+      <span class="tooltip-text" id="copy-button">Copy to clipboard</span>
+      Copy
+    </button>
+    <script>
+      function ClickToCopy() {
+        var copyText = document.getElementById("email");
+        copyText.select();
+        copyText.setSelectionRange(0, 99999);
+        navigator.clipboard.writeText(copyText.value);
+        
+        var tooltip = document.getElementById("copy-button");
+        tooltip.innerHTML = "Copied!";
+      }
+      
+      function Unhovered() {
+        var tooltip = document.getElementById("copy-button");
+        tooltip.innerHTML = "Copy to clipboard";
+      }
+    </script>
   </div>
 </body>
 </html>
