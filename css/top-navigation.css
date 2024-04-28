@@ -16,6 +16,7 @@ nav > ul > li > a {
     border-radius: 20px;
     text-decoration: none;
     color: #52c3ff;
+    transition: none;
 }
 
 /*links hover and active*/
@@ -107,9 +108,5 @@ nav {
     #check:checked + ul {
         max-height: 1000px;
         visibility: visible;
-    }
-
-    #check:not(:checked) + ul > li {
-        background: none;
     }
 }
