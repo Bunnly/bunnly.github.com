@@ -110,6 +110,6 @@ nav {
     }
 
     #check:not(:checked) + ul > li {
-        background-color: none;
+        background: none;
     }
 }
