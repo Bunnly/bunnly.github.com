@@ -104,13 +104,8 @@ nav {
         text-decoration: none;
         color: #52c3ff;
     }
-    #check:checked {
-        ul {
-            max-height: 1000px;
-            visibility: visible;
-        }
-        nav > ul > li > a {
-            opacity: 1;
-        }
+    #check:checked + ul {
+        max-height: 1000px;
+        visibility: visible;
     }
 }
