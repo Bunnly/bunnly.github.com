@@ -14,19 +14,3 @@ div > p {
     font-size: x-large;
     text-align: center;
 }
-
-/*Link*/
-div > p > a {
-    color: #52c3ff;
-    text-decoration: none;
-}
-div > p > a:hover {
-    text-decoration: underline;
-}
-
-/*Image o'Bunnly*/
-div > p > img {
-    margin-top: 60px;
-    width: 20vw;
-    height: auto;
-}
