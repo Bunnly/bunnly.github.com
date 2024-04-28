@@ -109,6 +109,6 @@ nav {
         visibility: visible;
     }
     #check:checked + ul > li > a.active, ul > li > a:hover {
-        transition: none;
+        transition: 0s;
     }
 }
