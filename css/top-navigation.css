@@ -103,12 +103,10 @@ nav {
         border-radius: 10px;
         text-decoration: none;
         color: #52c3ff;
+        transition: all 0s;
     }
     #check:checked + ul {
         max-height: 1000px;
         visibility: visible;
-    }
-    #check:checked + ul > li > a {
-        transition: all 0s;
     }
 }
