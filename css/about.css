@@ -16,4 +16,5 @@ p > a {
 }
 p > a:hover {
     text-decoration: underline;
+    font-size: calc(xx-large + 5px);
 }
