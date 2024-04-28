@@ -3,7 +3,7 @@ body {
 }
 
 /*About paragraph*/
-p {
+div > p {
     top: 30px;
     color: white;
     font-family: Roboto;
@@ -12,16 +12,16 @@ p {
 }
 
 /*Link*/
-p > a {
+div > p > a {
     color: #52c3ff;
     text-decoration: none;
 }
-p > a:hover {
+div > p > a:hover {
     text-decoration: underline;
 }
 
 /*Image o'Bunnly*/
-p > img {
+div > p > img {
     margin-top: 45px;
     width: 20vw;
     height: auto;
