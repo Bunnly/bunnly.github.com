@@ -2,8 +2,18 @@ body {
     background-color: #222222;
 }
 
+/*About paragraph*/
 p {
     color: white;
-    font-size: large;
+    font-size: xx-large;
     text-align: center;
+}
+
+/*Link*/
+p > a {
+    color: #52c3ff;
+    text-decoration: none;
+}
+p > a:hover {
+    text-decoration: underline;
 }
