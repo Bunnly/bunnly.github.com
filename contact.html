@@ -23,8 +23,8 @@
   </nav>
   <div>
     <p id="email">bunnlygamesbusiness@gmail.com</p>
-    <button onclick="ClickToCopy()" onmouseout="Unhovered()">
-      <span class="tooltip-text" id="copy-button">Copy to clipboard</span>
+    <button onclick="ClickToCopy()" onmouseout="Done()">
+      <span class="tooltip-text" id="copy">Copy to clipboard</span>
       Copy
     </button>
     <script>
@@ -33,12 +33,12 @@
         copyText.focus();
         navigator.clipboard.writeText(copyText.value);
         
-        var tooltip = document.getElementById("copy-button");
+        var tooltip = document.getElementById("copy");
         tooltip.innerHTML = "Copied!";
       }
       
-      function Unhovered() {
-        var tooltip = document.getElementById("copy-button");
+      function Done() {
+        var tooltip = document.getElementById("copy");
         tooltip.innerHTML = "Copy to clipboard";
       }
     </script>
