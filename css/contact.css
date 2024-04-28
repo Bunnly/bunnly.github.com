@@ -17,6 +17,7 @@ div > p {
 
 /*Copy button*/
 div > button {
+    content: "Copy to clipboard";
     font-family: Roboto;
     width: fit-content;
     color: #52c3ff;

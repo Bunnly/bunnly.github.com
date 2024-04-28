@@ -23,8 +23,8 @@
   </nav>
   <div>
     <p id="email">bunnlygamesbusiness@gmail.com</p>
-    <button onclick="ClickToCopy()" onmouseout="Done()">
-      Copy
+    <button id="copy-button" onclick="ClickToCopy()" onmouseout="Done()">
+      Copy to clipboard
     </button>
 
     <!--copy to clipboard javascript-->
@@ -42,10 +42,15 @@
 
         //Copy to clipboard
         navigator.clipboard.writeText(emailElement.textContent ? emailElement.textContent : emailElement.innerText);
+      
+        //Change button text
+        var button = document.getElementById("copy-button");
+        button.textContent = "Copied!"
       }
       
       function Done() {
-        
+        var button = document.getElementById("copy-button");
+        button.textContent = "Copy to clipboard"
       }
     </script>
   </div>
