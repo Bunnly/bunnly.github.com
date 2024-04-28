@@ -17,5 +17,9 @@ p > a {
 }
 p > a:hover {
     text-decoration: underline;
-    font-size: calc(xx-large + 5px);
+}
+
+/*Image o'Bunnly*/
+p > img {
+    size: 25%;
 }
