@@ -109,7 +109,7 @@ nav {
         visibility: visible;
     }
 
-    #check:checked + ul > li {
+    #check:not(:checked) + ul > li {
         background-color: none;
     }
 }
