@@ -108,7 +108,7 @@ nav {
         max-height: 1000px;
         visibility: visible;
     }
-    #check:checked + ul > li > a {
+    #check:checked + ul > li > a.active, ul > li > a:hover {
         transition: none;
     }
 }
