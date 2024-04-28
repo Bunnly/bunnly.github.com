@@ -22,7 +22,6 @@ nav > ul > li > a {
 nav > ul > li > a.active, nav > ul > li > a:hover {
     background-color: #52c3ff;
     color: #333333;
-    transition: 0.25s;
 }
 
 /*Remove list dots*/
@@ -103,7 +102,6 @@ nav {
         border-radius: 10px;
         text-decoration: none;
         color: #52c3ff;
-        transition: all 0s;
     }
     #check:checked + ul {
         max-height: 1000px;
