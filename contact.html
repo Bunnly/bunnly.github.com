@@ -24,7 +24,6 @@
   <div>
     <p id="email">bunnlygamesbusiness@gmail.com</p>
     <button onclick="ClickToCopy()" onmouseout="Done()">
-      <span id="copy">Copy to clipboard</span>
       Copy
     </button>
 
@@ -43,14 +42,10 @@
 
         //Copy to clipboard
         navigator.clipboard.writeText(emailElement.textContent ? emailElement.textContent : emailElement.innerText);
-        
-        var tooltip = document.getElementById("copy");
-        tooltip.innerHTML = "Copied!";
       }
       
       function Done() {
-        var tooltip = document.getElementById("copy");
-        tooltip.innerHTML = "Copy to clipboard";
+        
       }
     </script>
   </div>
