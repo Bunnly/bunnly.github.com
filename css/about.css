@@ -2,9 +2,13 @@ body {
     background-color: #222222;
 }
 
+/*All of about*/
+div {
+    margin-top: 30px;
+}
+
 /*About paragraph*/
 div > p {
-    top: 30px;
     color: white;
     font-family: Roboto;
     font-size: x-large;
