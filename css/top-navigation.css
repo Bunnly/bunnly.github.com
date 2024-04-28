@@ -110,7 +110,7 @@ nav {
             visibility: visible;
         }
         nav > ul > li > a {
-            background-color: none;
+            opacity: 1;
         }
     }
 }
