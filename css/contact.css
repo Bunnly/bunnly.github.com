@@ -31,6 +31,7 @@ div > button {
     opacity: 0;
     color: #52c3ff;
     background-color: #333333;
+    position: absolute;
     border-radius: 20px;
     border: 3px solid #52c3ff;
     transition: opacity 0.3s;
