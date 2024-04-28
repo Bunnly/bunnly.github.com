@@ -1,1 +1,1 @@
-This is for my website! Where I you can download my creations!
+This is for my website! Where you can download my creations!
