@@ -11,6 +11,8 @@ body {
 }
 
 .post {
+    max-width: 19.5%;
+    min-width: 100px;
     display: inline-block;
     margin-right: 5px;
     margin-bottom: 5px;
@@ -20,8 +22,7 @@ body {
 }
 
 .post > img {
-    max-width: 19.5%;
-    min-width: 100px;
+    width: 100%;
     height: auto;
     display: block;
 }
