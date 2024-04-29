@@ -2,9 +2,15 @@ body {
     background-color: #222222;
 }
 
-#contents > ul > li {
+.post {
     display: inline-block;
     margin: 5px;
     border-radius: 20px;
     border: 3px solid #52c3ff;
+}
+
+.post > img {
+    max-width: 400px;
+    min-width: 100px;
+    height: auto;
 }
