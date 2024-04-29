@@ -37,7 +37,7 @@ nav > ul {
 nav > a > img {
     float: left;
     margin: 10px;
-    height: calc(100% - 20px);
+    height: 45px;
     width:auto;
 }
 
