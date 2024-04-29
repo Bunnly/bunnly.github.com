@@ -2,7 +2,7 @@ body {
     background-color: #222222;
 }
 
-.contents > ul {
+.contents {
     width: calc(100% - 20px);
     left: 10px;
     top: 10px;
@@ -10,7 +10,8 @@ body {
 
 .post {
     display: inline-block;
-    margin: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
     border-radius: 20px;
     border: 3px solid #52c3ff;
 }
