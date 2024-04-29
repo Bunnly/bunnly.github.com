@@ -15,6 +15,10 @@ body {
     border: 3px solid #52c3ff;
 }
 
+.post > ul {
+    width: 100%;
+}
+
 .post > img {
     max-width: 19.5%;
     min-width: 100px;
