@@ -16,6 +16,8 @@ nav > ul > li > a {
     border-radius: 20px;
     text-decoration: none;
     color: #52c3ff;
+    transition: background-color 0.25s;
+    transition: color 0.25s;
 }
 
 /*links hover and active*/
