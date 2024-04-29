@@ -2,13 +2,8 @@ body {
     background-color: #222222;
 }
 
-.contents {
-    margin: 10px auto;
-}
-
 .contents > ul {
-    width: 100%;
-    padding: 0;
+    margin: 10px auto;
 }
 
 .post {
