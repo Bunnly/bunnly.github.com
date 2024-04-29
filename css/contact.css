@@ -32,7 +32,7 @@ div > button {
 }
 
 div > button:hover {
-    font-size: 2.5vw;
+    font-size: 2.25vw;
     color: #5ac5ff;
     background-color: #444444;
 }
