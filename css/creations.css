@@ -2,7 +2,7 @@ body {
     background-color: #222222;
 }
 
-.contents > ul > li {
+#contents > ul > li {
     min-height: 150px;
     max-width: fit-content;
     max-height: 250px;
