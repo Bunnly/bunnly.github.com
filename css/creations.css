@@ -12,6 +12,7 @@ body {
     min-width: 100px;
     display: inline-block;
     margin-right: 5px;
+    margin-left: 0;
     margin-bottom: 5px;
     background-color: #333333;
     border-radius: 20px;
