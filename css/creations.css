@@ -17,7 +17,7 @@ body {
 }
 
 .post > img {
-    max-width: 30vw;
+    max-width: 20vw;
     min-width: 100px;
     height: auto;
     display: block;
