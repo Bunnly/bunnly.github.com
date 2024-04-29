@@ -13,5 +13,5 @@ body {
     max-width: 400px;
     min-width: 100px;
     height: auto;
-    display: flex;
+    display: block;
 }
