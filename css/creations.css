@@ -3,7 +3,6 @@ body {
 }
 
 #contents {
-    position: relative;
     width: 80vw;
     margin-left: 5px;
     float: left;
@@ -15,7 +14,6 @@ body {
 }
 
 #search {
-    position: relative;
     margin-right: 10px;
     width: 10vw;
     height: 300px;
