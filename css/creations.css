@@ -4,7 +4,7 @@ body {
 
 .contents > ul {
     margin: 10px auto;
-    padding-inline-start: 0px !important;
+    padding: 0;
 }
 
 .post {
