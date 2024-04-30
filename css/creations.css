@@ -24,7 +24,7 @@ body {
 }
 
 .post {
-    max-width: calc(20vw);
+    max-width: calc(20vw - 10px);
     min-width: 100px;
     display: inline-block;
     margin-right: 10px;
