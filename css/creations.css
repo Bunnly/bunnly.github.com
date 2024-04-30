@@ -4,7 +4,7 @@ body {
 
 #contents {
     position: relative;
-    width: calc(80vw + 15px);
+    width: 80vw;
     margin-left: 5px;
     float: left;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .post {
-    max-width: calc(20vw - 10px);
+    max-width: calc(20vw - 15px);
     min-width: 100px;
     display: inline-block;
     margin-right: 10px;
