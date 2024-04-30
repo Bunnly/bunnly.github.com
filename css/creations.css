@@ -10,6 +10,7 @@ body {
 
 #contents > ul {
     padding: 0;
+    margin: 0;
 }
 
 #search {
