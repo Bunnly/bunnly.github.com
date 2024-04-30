@@ -3,11 +3,11 @@ body {
 }
 
 #contents {
+    margin: 5px auto;
     float: left;
 }
 
 #contents > ul {
-    margin: 5px auto;
     padding: 0;
 }
 
