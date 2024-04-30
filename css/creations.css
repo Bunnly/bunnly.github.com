@@ -8,7 +8,7 @@ body {
 }
 
 .post {
-    max-width: calc(20% - 5px);
+    max-width: calc(20% - 2.5px);
     min-width: 100px;
     display: inline-block;
     margin-right: 5px;
