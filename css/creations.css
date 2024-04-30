@@ -3,7 +3,7 @@ body {
 }
 
 #contents {
-    width: calc(90vw - 10px);
+    width: calc(90vw - 20px);
     margin: 5px auto;
     float: left;
 }
