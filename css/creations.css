@@ -15,7 +15,7 @@ body {
 
 #search {
     margin-right: 10px;
-    width: 10vw;
+    width: calc(10% - 10px);
     height: 300px;
     float: right;
     background-color: #333333;
@@ -24,7 +24,7 @@ body {
 }
 
 .post {
-    max-width: calc(20vw - 18px);
+    max-width: calc(20% - 15px);
     min-width: 100px;
     display: inline-block;
     margin-right: 10px;
