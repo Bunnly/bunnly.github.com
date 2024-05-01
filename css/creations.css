@@ -9,13 +9,17 @@ body {
 
 #contents > ul {
     width: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    list-style: none;
     padding: 0;
     margin: 0;
 }
 
 #search {
-    width: calc(10% - 10px);
-    height: 300px;
+    width: calc(15% - 10px);
+    height: 400px;
     float: right;
     background-color: #333333;
     border-radius: 20px;
@@ -23,11 +27,7 @@ body {
 }
 
 .post {
-    max-width: calc(20% + 15px);
-    min-width: 100px;
     display: inline-block;
-    margin-right: 10px;
-    margin-bottom: 10px;
     background-color: #333333;
     border-radius: 20px;
     border: 3px solid #52c3ff;
