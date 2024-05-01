@@ -3,7 +3,7 @@ body {
 }
 
 #contents {
-    width: 88vw;
+    width: 90vw;
     float: left;
 }
 
@@ -14,7 +14,6 @@ body {
 }
 
 #search {
-    margin-right: 10px;
     width: calc(10% - 10px);
     height: 300px;
     float: right;
