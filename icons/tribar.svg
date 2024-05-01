@@ -2,5 +2,5 @@
     <path d="M10 0 L90 0 A5 5 0 0 1 90 20 L10 20 A5 5 0 0 1 10 0
     M10 60 L90 60 A5 5 0 0 0 90 40 L10 40 A5 5 0 0 0 10 60
     M10 80 L90 80 A5 5 0 0 1 90 100 L10 100 A5 5 0 0 1 10 80"
-    style="fill:black;">
+    style="fill:black;"></path>
 </svg>
