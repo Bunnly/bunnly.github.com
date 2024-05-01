@@ -3,7 +3,7 @@ body {
 }
 
 #contents {
-    width: 90vw;
+    width: 90%;
     float: left;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 #search {
-    width: calc(9%);
+    width: calc(10% - 10px);
     height: 300px;
     float: right;
     background-color: #333333;
@@ -23,7 +23,7 @@ body {
 }
 
 .post {
-    max-width: calc(19%);
+    max-width: calc(20% - 15px);
     min-width: 100px;
     display: inline-block;
     margin-right: 10px;
