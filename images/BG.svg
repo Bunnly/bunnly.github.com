@@ -1,4 +1,8 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="width:100; height:100;">
+    <!--Background-->
+    <circle r="48" cx="50" cy="50" 
+    style="fill: #94bdc5; stroke: #6f98a0; 
+    stroke-width: 2;"></circle>
     <!--Cube top-->
     <path d="M 50.5 12.5 L 17.5 31.5 
     L 50.5 50.5 L 82.5 31.5" 
@@ -31,9 +35,12 @@
     L 40.5 62 L 40.5 56 L 26 48" 
     style="fill: #603b34;"></path>
     <!--G Blue-->
-    <path d="M 53 80.5 L 55 80 
-    L 55 81.5 L 79 68 L 79 50.5 
-    L 64.5 59 L 64.5 66 L 73.5 61 
-    L 73.5 64.5 L 59 72.5" 
+    <path d="M 54 80.5 L 56 79.5 
+    L 56 81.5 L 80 67.5 L 80 50.5 
+    L 65.5 59 L 65.5 65.5 L 74.5 61 
+    L 74.5 64.5 L 60 72.5 L 60 56 
+    L 74.5 47.5 L 74.5 50 L 80 47 
+    L 80 37.5 L 56 51.5 L 56 54 
+    L 54 55" 
     style="fill: #94bdc5;"></path>
 </svg>
