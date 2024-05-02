@@ -3,7 +3,7 @@ body {
 }
 
 #contents {
-    margin: 0 10px;
+    margin: 5px 10px;
     float: left;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 #search {
-    margin: 5px 10px;
+    margin: 0 10px;
     height: 64px;
     background-color: #333333;
     border-radius: 20px;
