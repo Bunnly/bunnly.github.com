@@ -4,6 +4,7 @@ body {
 
 #contents {
     margin: 10px 10px;
+    overflow:scroll;
 }
 
 #contents > ul {
