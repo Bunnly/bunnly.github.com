@@ -4,7 +4,7 @@ body {
 
 #contents {
     margin: 10px 10px;
-    margin-bottom: 10px;
+    padding: 0;
     overflow: scroll;
 }
 
@@ -17,7 +17,7 @@ body {
     border-radius: 20px;
     border: 6px solid transparent;
     background-clip: content-box;
-  }
+}
 
 #contents > ul {
     width: auto;
@@ -31,7 +31,7 @@ body {
 
 #search {
     margin: 0 10px;
-    height: 64px;
+    height: autopx;
     background-color: #333333;
     border-radius: 20px;
     border: 3px solid #52c3ff;
