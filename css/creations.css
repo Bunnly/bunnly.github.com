@@ -4,7 +4,7 @@ body {
 
 #contents {
     margin: 10px 10px;
-    height: auto;
+    margin-bottom: 10px;
     overflow: scroll;
 }
 
