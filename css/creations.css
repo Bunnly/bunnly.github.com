@@ -4,8 +4,8 @@ body {
 
 #contents {
     margin: 10px 10px;
-    padding: 0;
     overflow: scroll;
+    box-sizing: content-box;
 }
 
 ::-webkit-scrollbar {
