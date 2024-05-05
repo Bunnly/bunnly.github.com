@@ -5,7 +5,6 @@ body {
 #contents {
     margin: 10px 10px;
     overflow: scroll;
-    box-sizing: content-box;
 }
 
 #contents > ul {
