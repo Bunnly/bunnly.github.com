@@ -26,3 +26,7 @@ i {
 .icon-tribar:before {
     content: "\e900";
 }
+
+.icon-search::before {
+    content: "placeholder";
+}

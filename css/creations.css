@@ -24,6 +24,10 @@ body {
     border: 3px solid #52c3ff;
 }
 
+#search > #search-input {
+    
+}
+
 .post {
     display: inline-block;
     background-color: #333333;
